@@ -28,5 +28,7 @@ To build a predictive model for early detection of diabetes based on health and 
 - Identified key features linked to diabetes risk (e.g., BMI, age, alcohol, smoking)
 - Balanced dataset improved prediction performance and reduced bias
 
-## 📁 Repository Structure
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
